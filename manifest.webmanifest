@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "HydroSense Smart Water Quality Monitoring",
+  "short_name": "HydroSense",
+  "description": "IoT smart water quality monitoring dashboard demo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f8fb",
+  "theme_color": "#087ea4",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
